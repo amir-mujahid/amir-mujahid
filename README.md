@@ -1,276 +1,204 @@
-# Muhammad Amir Mujahid Nasrullah bin Imam Sunaryo (Amir)
+<div align="center">
 
-<p align="center">
-  <strong>Data Engineering Student · Full-Stack Software Engineer · AI/ML · IoT · Cybersecurity</strong>
+# Muhammad Amir Mujahid Nasrullah bin Imam Sunaryo
+### Amir
+
+**Data Engineering Student · Full-Stack Software Engineer · AI/ML Builder · IoT Innovator · Cybersecurity Enthusiast**
+
+<p>
+  <a href="https://www.linkedin.com/in/amirmuja"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:amir07mujahid2007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Kuala_Lumpur%2C_Malaysia-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amirmuja">LinkedIn</a> · Kuala Lumpur, Malaysia
-</p>
+> I build intelligent products at the intersection of **data, software, AI, cloud, mobile, IoT, and security**.
 
-## Contact
+</div>
 
-- **Email:** amir07mujahid2007@gmail.com
-- **Phone:** +60 11-2374 2456
-- **LinkedIn:** [linkedin.com/in/amirmuja](https://www.linkedin.com/in/amirmuja)
-- **Location:** Kuala Lumpur, Malaysia
-- **Nationality:** Malaysian
+---
 
-## Summary
+## ⚡ About Me
 
-- Data Engineering student at **Universiti Teknologi Malaysia (UTM)**
-- Self-taught across full-stack web development, Android, IoT, AI/ML, and cybersecurity
-- Started in cybersecurity through TryHackMe and Hack The Box before moving into software development
-- Winner of national and international innovation competitions
-- Interested in data systems, databases, cloud computing, artificial intelligence, and software engineering
+I am a **Data Engineering student at Universiti Teknologi Malaysia** and a self-taught software engineer who enjoys turning ambitious ideas into working products.
 
-## Education
+My journey started with cybersecurity through **TryHackMe** and **Hack The Box**, then expanded into full-stack development, Android engineering, artificial intelligence, machine learning, cloud architecture, and embedded systems. I am especially interested in building products that combine robust data systems with thoughtful user experiences.
 
-### Universiti Teknologi Malaysia (UTM)
+- 🧠 Currently exploring **data engineering, AI-native systems, databases, and cloud architecture**
+- 🛠️ Building **Cogniv**, an AI-powered academic platform for web and mobile
+- 🏆 Winner of national and international innovation competitions
+- 🔬 Interested in systems that are useful, measurable, secure, and scalable
+- 🌱 Always learning, experimenting, and shipping
 
-**Bachelor of Computer Science (Data Engineering)** · 2026–Present
+---
 
-### Kolej Matrikulasi Johor (KMJ)
+## 🚀 What I Build
 
-**Matriculation Programme (Computer Science)** · 2025–2026
+| Area | What I work on |
+| --- | --- |
+| 🤖 **AI & ML** | LLM integrations, computer vision, predictive analytics, AI tutoring, embeddings, and on-device inference |
+| 🌐 **Full-Stack** | Production-style web platforms, APIs, dashboards, workflows, and SaaS products |
+| 📱 **Mobile** | Android applications with Kotlin, Jetpack Compose, Room, and Ktor |
+| 🗄️ **Data** | PostgreSQL, MongoDB, Redis, vector search, data pipelines, and database design |
+| ☁️ **Cloud & DevOps** | Azure, Docker, automated deployments, observability, testing, and secure infrastructure |
+| 🔌 **IoT** | ESP32 systems, sensors, RFID, OTA updates, captive portals, and real-time monitoring |
+| 🛡️ **Cybersecurity** | Penetration testing, network analysis, security-conscious architecture, and access controls |
 
-- PSPM: **4.00 CGPA**
+---
 
-### SMK Sungai Pusu
+## 🌟 Featured Project
 
-**Sijil Pelajaran Malaysia (SPM)** · Graduated 2024
+### [Cogniv — AI-Powered Academic Platform](https://github.com/amir-mujahid)
 
-- Academic results: **4A+ and 5A**
-- LinkedIn period: 2020–2025
+> Formerly **Synaply** · September 2026–Present
 
-## Experience
+My first SaaS product: an AI-native academic platform designed to help students **plan, learn, research, collaborate, analyse progress, and build their careers** across web and mobile.
 
-### Weir (Weir Minerals Malaysia)
+**Highlights**
 
-**Full-Stack Software Engineer** · June 2026–Present
+- 📅 Timetables, task prioritisation, calendar sync, transit alerts, and vision-OCR schedule extraction
+- ✍️ Structured notes, stylus handwriting, AI ink-to-LaTeX, FSRS spaced repetition, and exam preparation
+- 📚 Course file vaults, paper reading, and BibTeX export
+- 🤝 Study groups, shared resources, real-time collaboration, focus timers, and campus navigation
+- 📊 GPA tracking, CGPA what-if simulations, and achievement tracking
+- 💼 Portfolio building, ATS-oriented CV generation, and third-party integrations
 
-- Building confidential enterprise software for internal business workflows and technical decision-making
-- Developing a multi-stage decision engine that evaluates technical requirements and constraints
-- Working with cloud architecture, access controls, automated deployment, security, and data protection
-- Developing data-processing pipelines and performance optimisations
-- Implementing automated end-to-end testing
+**Stack:** Next.js 15 · React 19 · Kotlin · Jetpack Compose · Node.js · TypeScript · FastAPI · Python · PostgreSQL · Drizzle · pgvector · MongoDB Atlas · Redis · BullMQ · Azure · Docker · Turborepo
 
-#### Rubber Recommendation System
+---
 
-- Python-based recommendation engine
-- Google Sheets used as the database
-- Custom web form for data collection and interaction
-- Three sequential filters:
-  1. Chemical resistance
-  2. Application compatibility
-  3. Temperature range
-- Tie-breaker logic for situations where multiple results match
-- Project specification documented in `PLAN.md` for Claude Code
+## 🧪 Other Projects
 
-#### Internship Report: “From Latex to Linatex”
+### 🗑️ EcoBin — Intelligent IoT Waste Management
 
-- Developed a magazine-style internship report layout
+An ESP32 smart-bin ecosystem with RFID, ultrasonic sensing, Firebase, OTA updates, captive-portal networking, Android controls, smart alerts, real-time visualisation, and TensorFlow Lite fill-level analytics.
 
-### Kolej Matrikulasi Johor (KMJ)
+### 🌱 GrowBot — AI-Powered Smart Gardening
 
-**Full-Stack Software Engineer** · January 2026–October 2026
+An ESP32 automated-irrigation system using soil, temperature, and humidity sensors, plus MobileNet plant-disease detection with **over 88% accuracy** and predictive maintenance for hardware failures.
 
-#### CM Study Guide
+### 🧪 CM Study Guide — AI Learning Companion
 
-AI-powered mobile learning companion for calorimetry and thermochemistry.
+An Android learning companion for calorimetry and thermochemistry featuring context-aware AI hints, diagnostic error classification, topic-mastery tracking, generated practice problems, timed exam mode, and leaderboards.
 
-- AI tutor with context-aware hints
-- Diagnostic engine that classifies errors involving formulas, logic, and units
-- Topic-mastery tracking
-- Unlimited generated practice problems
-- Timed examination mode
-- Leaderboards
-- Android package: `com.calorimetry.calorimetry`
-- Developer: **URANUS KMJ**
+### ⚙️ Rubber Recommendation System
 
-## Projects
+A Python decision engine for Weir Minerals Malaysia that filters rubber recommendations by **chemical resistance, application compatibility, and temperature range**, with tie-breaker logic for multiple matching results.
 
-### Cogniv: AI-Powered Academic Platform
+---
 
-**September 2026–Present** · Formerly **Synaply**
+## 💼 Experience
 
-My first SaaS product, currently in active development. Cogniv is an AI-native platform for productivity, learning, research, collaboration, and analytics across web and mobile.
+### Weir — Weir Minerals Malaysia
+**Full-Stack Software Engineer · June 2026–Present**
 
-#### Features
+Working on confidential enterprise software for internal workflows and technical decision-making, including multi-stage decision engines, cloud architecture, access controls, data-processing pipelines, automated deployment, security, data protection, performance optimisation, and end-to-end testing.
 
-- **Planning:** Timetables, task prioritisation, vision-OCR schedule extraction, transit alerts, and calendar synchronisation
-- **Learning:** Structured notes, stylus handwriting, AI ink-to-LaTeX, spaced repetition using FSRS, and exam preparation
-- **Research:** Course file vaults, paper reading, and BibTeX export
-- **Collaboration:** Split-view workspaces, study groups, shared resources, real-time collaboration, focus timers, and campus navigation
-- **Analytics:** GPA tracking, CGPA what-if simulations, and achievement tracking
-- **Career:** Portfolio building, ATS-oriented CV generation, and third-party integrations
+### Kolej Matrikulasi Johor
+**Full-Stack Software Engineer · January 2026–October 2026**
 
-#### Technology Stack
+Built the **CM Study Guide**, an AI-powered mobile learning companion for calorimetry and thermochemistry.
 
-- **Client:** Next.js 15, React 19, Tailwind CSS, Radix UI, Android Kotlin 2.1, Jetpack Compose, Room DB, and Ktor
-- **Backend:** Express/Node.js, TypeScript, FastAPI, Python 3.11+, shared TypeScript contracts, and telemetry SDK
-- **Data:** PostgreSQL 16, Drizzle ORM, pgvector with HNSW, MongoDB Atlas, Redis 7, BullMQ, Azure Blob Storage, and Amazon S3
-- **AI:** Groq with Qwen and gpt-oss-120b, NVIDIA NIM with Llama 3.2 Vision and Nemotron embeddings, and Gemini fallback
-- **Operations:** Clerk, Datadog, Sentry, Doppler, Azure Container Apps, Docker, and ConfigCat
-- **Tooling:** Turborepo, pnpm, LocalStack, Docker Compose, and TypeScript 5.7 strict mode
+---
 
-### EcoBin: Intelligent IoT Waste Management System
+## 🧰 Tech Stack
 
-- ESP32 smart bin with RFID and ultrasonic sensing
-- Firebase integration and over-the-air updates
-- Captive portal with DNS handling, TTL caching, access-point mode switching, and iOS/Android probe handling
-- Android application built with Kotlin and Jetpack Compose
-- Smart alerts and real-time bin visualisation
-- Predictive fill-level analytics using TensorFlow Lite
-- Rewrote the captive portal to improve device and mobile-platform compatibility
+<div align="center">
 
-### GrowBot: AI-Powered Smart Gardening System
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square&logo=mathworks&logoColor=white)
 
-- ESP32-based system with soil, temperature, and humidity sensors
-- Automated irrigation
-- MobileNet plant-disease model with over 88% accuracy
-- On-device inference using TensorFlow Lite
-- Predictive-maintenance machine learning to forecast hardware failures
-- Technology stack: ESP32, Firebase, Kotlin, TensorFlow Lite, MobileNet, and Python
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
-## Leadership
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Head Prefect and Head Student Leader — SMK Sungai Pusu
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-- Served as a liaison between students, teachers, and school administration
-- Represented students in official functions and decision-making activities
+</div>
 
-## Achievements and Awards
+<details>
+<summary><strong>View the full skills list</strong></summary>
 
-- **Gold Award** — International Creative Innovation Idea Competition (ICIIC), 2026 on LinkedIn / 2025 on previous resume
-- **Gold Medal and Best Sensor Invention Award** — MASCar ’25
-- **Silver Award** — Karnival Inovasi @ UMT 2025
-- **Silver Medal (National)** — Management Innovation Practice 2025
-- **1st Place / Johan (National)** — PETRONAS Chemicals Group Be Green 2024
-- **Outstanding Student Award** — Anugerah Tokoh Pelajar 2024
-- **Best Leadership Award** — Anugerah Kepimpinan Terbaik 2024
+### AI, ML & Data
 
-## Certifications
+LLM integration · computer vision · TensorFlow Lite · MobileNet · predictive analytics · predictive maintenance · OCR · AI tutoring systems · embeddings · vector search · diagnostic engines · PostgreSQL · Drizzle ORM · pgvector · MongoDB Atlas · Redis · BullMQ · Firebase · Azure Blob Storage · Azure Container Apps · Amazon S3 · LocalStack
 
-- CompTIA PenTest+
-- Introduction to Data Engineering
+### Engineering, Cloud & Operations
 
-## Skills
+Software architecture · performance optimisation · shared contracts and SDK design · automated deployment · automated end-to-end testing · Docker Compose · Turborepo · pnpm · Datadog · Sentry · Doppler · ConfigCat
 
-### Programming Languages
+### IoT & Embedded Systems
 
-- Python
-- Kotlin
-- TypeScript
-- C++
-- MATLAB
-
-### Web and Mobile Development
-
-- Next.js
-- React
-- Node.js
-- Express
-- FastAPI
-- Android development
-- Jetpack Compose
-- Ktor
-- Room DB
-- Tailwind CSS
-- Radix UI
-
-### Artificial Intelligence and Machine Learning
-
-- Large language model integration
-- AI tutoring systems
-- Computer vision
-- TensorFlow Lite
-- MobileNet
-- Predictive analytics
-- Predictive maintenance
-- AI ink-to-LaTeX
-- OCR and vision-based extraction
-- Embeddings and vector search
-- Diagnostic and classification engines
-
-### Data and Cloud
-
-- PostgreSQL
-- Drizzle ORM
-- pgvector
-- MongoDB
-- MongoDB Atlas
-- Redis
-- BullMQ
-- Firebase
-- Azure
-- Azure Blob Storage
-- Azure Container Apps
-- Amazon S3
-- LocalStack
-- Data-processing pipelines
-- Database design
-
-### DevOps and Engineering Tools
-
-- Docker
-- Docker Compose
-- Turborepo
-- pnpm
-- Git
-- Automated deployment
-- Automated end-to-end testing
-- Datadog
-- Sentry
-- Doppler
-- ConfigCat
-- Software architecture
-- Performance optimisation
-- Shared contracts and SDK design
-
-### IoT and Embedded Systems
-
-- ESP32
-- RFID
-- Ultrasonic sensing
-- Soil, temperature, and humidity sensors
-- Automated irrigation
-- Over-the-air updates
-- Captive portals
-- DNS and TTL caching
-- Access-point mode switching
-- Mobile captive-network probe handling
+ESP32 · RFID · ultrasonic sensing · soil, temperature, and humidity sensors · automated irrigation · OTA updates · captive portals · DNS · TTL caching · access-point mode switching · mobile captive-network probe handling
 
 ### Cybersecurity
 
-- Penetration testing
-- Kali Linux
-- Nmap
-- Burp Suite
-- Metasploit
-- Wireshark
-- TryHackMe
-- Hack The Box
-- Security-conscious cloud architecture
-- Access controls
-- Data protection
+Penetration testing · Kali Linux · Nmap · Burp Suite · Metasploit · Wireshark · TryHackMe · Hack The Box · access controls · data protection
 
-## Interests
-
-- Data engineering
-- Data systems and databases
-- Cloud architecture
-- Artificial intelligence and machine learning
-- Full-stack software engineering
-- Android development
-- Internet of Things
-- Cybersecurity
-- Developer tools and productivity systems
-- Educational technology
-
-## Connect
-
-- **LinkedIn:** [linkedin.com/in/amirmuja](https://www.linkedin.com/in/amirmuja)
-- **Email:** [amir07mujahid2007@gmail.com](mailto:amir07mujahid2007@gmail.com)
+</details>
 
 ---
+
+## 🏆 Awards & Recognition
+
+- 🥇 **Gold Award** — International Creative Innovation Idea Competition (ICIIC)
+- 🥇 **Gold Medal & Best Sensor Invention Award** — MASCar ’25
+- 🥈 **Silver Award** — Karnival Inovasi @ UMT 2025
+- 🥈 **Silver Medal (National)** — Management Innovation Practice 2025
+- 🥇 **1st Place / Johan (National)** — PETRONAS Chemicals Group Be Green 2024
+- ⭐ **Outstanding Student Award** — Anugerah Tokoh Pelajar 2024
+- 👑 **Best Leadership Award** — Anugerah Kepimpinan Terbaik 2024
+
+## 🎓 Education & Certifications
+
+- **Universiti Teknologi Malaysia** — Bachelor of Computer Science (Data Engineering), 2026–Present
+- **Kolej Matrikulasi Johor** — Matriculation Programme (Computer Science), PSPM 4.00 CGPA
+- **SMK Sungai Pusu** — SPM, 4A+ and 5A
+- **CompTIA PenTest+**
+- **Introduction to Data Engineering**
+
+## 🧭 Leadership
+
+**Head Prefect & Head Student Leader — SMK Sungai Pusu**
+
+Served as a liaison between students, teachers, and administration, and represented students in official functions and decision-making activities.
+
+---
+
+## 📈 Currently Learning
+
+`Data Engineering` `Distributed Systems` `Cloud Architecture` `AI Agents` `Vector Search` `MLOps` `Secure Software Design` `Product Engineering`
+
+## 🤝 Let’s Connect
+
+I am interested in **data systems, AI products, developer tools, educational technology, cloud infrastructure, and ambitious software projects**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amirmuja"><strong>Connect on LinkedIn</strong></a> ·
+  <a href="mailto:amir07mujahid2007@gmail.com"><strong>Send an Email</strong></a>
+</p>
+
+<div align="center">
+
+### ✨ Build boldly. Learn continuously. Ship useful things. ✨
+
+</div>
+
+---
+
+<p align="center"><sub>Profile README prepared from the information provided by Amir Mujahid.</sub></p>
