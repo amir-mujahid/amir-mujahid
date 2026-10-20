@@ -274,5 +274,3 @@ My first SaaS product, currently in active development. Cogniv is an AI-native p
 - **Email:** [amir07mujahid2007@gmail.com](mailto:amir07mujahid2007@gmail.com)
 
 ---
-
-_This README was prepared from the LinkedIn information provided by Amir Mujahid. Dates and details should be updated as his education, employment, certifications, and projects evolve._
