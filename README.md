@@ -1,4 +1,6 @@
-<div align="center">Muhammad Amir Mujahid Nasrullah bin Imam Sunaryo
+<div align="center">
+
+<h1>Muhammad Amir Mujahid Nasrullah bin Imam Sunaryo</h1>
 
 Amir Mujahid
 
@@ -10,9 +12,13 @@ Building software that turns complex problems into practical, intelligent produc
   <a href="https://www.linkedin.com/in/amirmuja"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:amir07mujahid2007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Malaysia-Kuala_Lumpur-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-</p></div>---
+</p>
 
-About Me
+</div>
+
+---
+
+## About Me
 
 I'm a Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM) and a self-taught developer passionate about building useful software, AI-powered applications, and connected systems.
 
@@ -26,9 +32,9 @@ I enjoy taking ideas from concept to implementation, learning new technologies t
 - 🏆 Recognised in national and international innovation competitions.
 - 🛡️ Interested in cybersecurity, secure software design, and system reliability.
 
-Featured Project
+## Featured Project
 
-Cogniv — AI-Powered Academic Platform
+### Cogniv — AI-Powered Academic Platform
 
 September 2026 – Present · In active development
 
@@ -47,9 +53,9 @@ Tech stack: Next.js · React · TypeScript · Kotlin · Jetpack Compose · Node.
 
 «Cogniv is an ongoing project. Its features and architecture continue to evolve during development.»
 
-Other Projects
+## Other Projects
 
-🌱 GrowBot — AI-Powered Smart Gardening System
+### 🌱 GrowBot — AI-Powered Smart Gardening System
 
 An IoT gardening system that combines environmental sensing, automated irrigation, and machine learning to support plant care.
 
@@ -61,7 +67,7 @@ Tech: ESP32 · Firebase · Kotlin · TensorFlow Lite · MobileNet · Python
 
 Recognition: Gold Medal & Best Sensor Invention Award — MASCar '25
 
-🗑️ EcoBin — Intelligent IoT Waste Management System
+### 🗑️ EcoBin — Intelligent IoT Waste Management System
 
 An IoT-enabled waste management system that connects smart-bin hardware with an Android application for monitoring and management.
 
@@ -72,7 +78,7 @@ An IoT-enabled waste management system that connects smart-bin hardware with an 
 
 Tech: Kotlin · Jetpack Compose · Firebase · ESP32 · TensorFlow Lite
 
-🧪 CM Study Guide — AI-Powered Mobile Learning Companion
+### 🧪 CM Study Guide — AI-Powered Mobile Learning Companion
 
 An Android learning application developed to help students understand calorimetry and thermochemistry through personalised practice and diagnostic feedback.
 
@@ -82,9 +88,9 @@ An Android learning application developed to help students understand calorimetr
 
 Tech: Android · Kotlin · Jetpack Compose · AI integration
 
-Experience
+## Experience
 
-Full-Stack Software Engineer — Weir
+### Full-Stack Software Engineer — Weir
 
 June 2026 – Present
 
@@ -95,56 +101,65 @@ Contributing to the development of confidential enterprise software for internal
 - Built data-processing pipelines and optimised application performance.
 - Established automated end-to-end testing to improve reliability.
 
-Full-Stack Software Engineer — Kolej Matrikulasi Johor
+### Full-Stack Software Engineer — Kolej Matrikulasi Johor
 
 January 2026 – October 2026
 
 Developed CM Study Guide, an AI-powered mobile learning companion for chemistry education, with a focus on diagnostic learning, personalised guidance, and interactive assessment.
 
-Technical Skills
+## Technical Skills
 
-<div align="center">"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-"Kotlin" (https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<div align="center">
 
-"Next.js" (https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-"React" (https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-"Jetpack Compose" (https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-"Redis" (https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-"Firebase" (https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
-"Azure" (https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-"Docker" (https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-"TensorFlow Lite" (https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-"ESP32" (https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-</div><details>
-<summary><strong>More technical skills</strong></summary>AI, Machine Learning & Data
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+<details>
+
+<summary><strong>More technical skills</strong></summary>
+
+### AI, Machine Learning & Data
 
 - LLM integration, computer vision, OCR, TensorFlow Lite, predictive analytics, predictive maintenance
 - PostgreSQL, pgvector, MongoDB, Redis, Firebase
 
-Software Engineering & Cloud
+### Software Engineering & Cloud
 
 - Full-stack development, Android development, software architecture, performance optimisation
 - Next.js, React, Node.js, FastAPI, Kotlin, Jetpack Compose
 - Azure, Docker, automated deployment, end-to-end testing
 
-IoT & Embedded Systems
+### IoT & Embedded Systems
 
 - ESP32, sensor integration, automated irrigation, real-time monitoring
 
-Cybersecurity
+### Cybersecurity
 
 - Penetration testing, Kali Linux, TryHackMe, Hack The Box
 
-</details>Awards & Recognition
+</details>
+
+## Awards & Recognition
 
 - 🥇 Gold Award — International Creative Innovation Idea Competition (ICIIC) 2026
 - 🥇 Gold Medal & Best Sensor Invention Award — National Matriculation STEM Carnival (MASCar '25)
@@ -154,39 +169,46 @@ Cybersecurity
 - ⭐ Outstanding Student Award — Anugerah Tokoh Pelajar 2024
 - 👑 Best Leadership Award — Anugerah Kepimpinan Terbaik 2024
 
-Education & Certifications
+## Education & Certifications
 
-Universiti Teknologi Malaysia (UTM)
+### Universiti Teknologi Malaysia (UTM)
+
 Bachelor of Computer Science (Data Engineering) · 2026 – Present
 
-Kolej Matrikulasi Johor (KMJ)
+### Kolej Matrikulasi Johor (KMJ)
+
 Matriculation Programme (Computer Science) · PSPM: 4.00 CGPA · 2025 – 2026
 
-SMK Sungai Pusu
+### SMK Sungai Pusu
+
 Sijil Pelajaran Malaysia (SPM) · 4A+, 5A · Graduated 2024
 
-Certifications
+### Certifications
 
 - CompTIA PenTest+
 - Introduction to Data Engineering
 
-Leadership
+## Leadership
 
-Head Prefect & Head Student Leader — SMK Sungai Pusu
+### Head Prefect & Head Student Leader — SMK Sungai Pusu
 
 Served as the main liaison between students, teachers, and school administration, representing the student body in official school functions and decision-making discussions.
 
-Currently Exploring
+## Currently Exploring
 
 "Data Engineering" · "AI-Powered Systems" · "Cloud Architecture" · "Secure Software Design" · "Scalable Software"
 
-Let's Connect
+## Let's Connect
 
 I'm always interested in connecting with developers, learning from other builders, collaborating on meaningful projects, and exploring opportunities across software engineering, data, AI, and cybersecurity.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amirmuja"><strong>LinkedIn</strong></a> ·
   <a href="mailto:amir07mujahid2007@gmail.com"><strong>Email</strong></a>
-</p><div align="center">Build thoughtfully. Learn continuously. Ship useful things.
+</p>
+
+<div align="center">
+
+Build thoughtfully. Learn continuously. Ship useful things.
 
 </div>
